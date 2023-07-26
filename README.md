@@ -1,7 +1,7 @@
 # Nigeria-Cyber-Documents
 A repository for tracking all cybersecurity-related documents and frameworks guiding the operational, regulatory and strategic direction of everything Cyber in Nigeria.
 
-### `Cyber-Related Documents and Framework `
+### `Cyber-Related Documents and Frameworks `
 
 | Document | Author | Description | Resource URL |
 | ---| --- | --- | --- |
