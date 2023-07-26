@@ -14,8 +14,7 @@ A repository for tracking all cybersecurity-related documents and frameworks gui
 | Risk-based Cybersecurity Framework and Guidelines for Other Financial Institutions (OFIs) 2022 | Central Bank of Nigeria | The Risk-based Cybersecurity Framework and Guidelines for Other Financial Institutions (OFIs) is a document issued by the Central Bank of Nigeria (CBN) in June 2022. It provides a set of minimum standards and best practices for OFIs to enhance their cybersecurity posture and resilience against cyber threats | [cbn.gov.ng](https://www.cbn.gov.ng/Out/2022/OFISD/Letter%20to%20all%20OFIs%20Issuance%20of%20Risk-Based%20Cybersecurity%20Framework%20and%20Guidelines%20for%20Other%20Financial%20Institutions.pdf)
 
 # Nigeria- International Cooperations on Cyber
-* Budapest Convention
-  The Budapest Convention on Cybercrime is an international treaty that aims to harmonize national laws and improve cooperation among countries 
-  in the investigation and prosecution of cybercrime. Nigeria signed the convention in 2015 and has since made efforts to align its domestic laws 
-  with the convention's provisions. [Council of Europe](https://www.coe.int/en/web/human-rights-rule-of-law/-/nigeria-acceded-to-the-council-of-europe-convention-on-cybercrime)
-* 
+| Convention | Description | Status | Source
+| --- | --- |--- |---
+|Budapest Convention |The Budapest Convention on Cybercrime is an international treaty that aims to harmonize national laws and improve cooperation among countries in the investigation and prosecution of cybercrime. Nigeria signed the convention in 2022 and has since made efforts to align its domestic laws with the convention's provisions. | Signed & Ratified | [Council of Europe](https://www.coe.int/en/web/human-rights-rule-of-law/-/nigeria-acceded-to-the-council-of-europe-convention-on-cybercrime)
+| Malabo Convention | Nigeria has neither signed nor ratified the African Union (UN) Convention on Cybersecurity and Personal Data Protection | -- | --- 
