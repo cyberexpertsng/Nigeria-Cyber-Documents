@@ -18,3 +18,5 @@ A repository for tracking all cybersecurity-related documents and frameworks gui
 | --- | --- |--- |---
 |Budapest Convention |The Budapest Convention on Cybercrime is an international treaty that aims to harmonize national laws and improve cooperation among countries in the investigation and prosecution of cybercrime. Nigeria signed the convention in 2022 and has since made efforts to align its domestic laws with the convention's provisions. | Signed & Ratified | [Council of Europe](https://www.coe.int/en/web/human-rights-rule-of-law/-/nigeria-acceded-to-the-council-of-europe-convention-on-cybercrime)
 | Malabo Convention | Nigeria has neither signed nor ratified the African Union (UN) Convention on Cybersecurity and Personal Data Protection. The Malabo Convention is a framework convention which is meant to provide general rules and principles on three broad themes: Personal data protection; electronic commerce; and cybersecurity and cybercrimes in the continent | Not Signed nor Ratified | [AU.INT](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION.pdf)
+
+# Some Timelines
